@@ -174,7 +174,7 @@ post_install() {
     println
     println "Congratulations! NextDNS is now installed."
     println
-    println "To upgrade/uninstall, run this command again and select the approriate option."
+    println "To upgrade/uninstall, run this command again and select the appropriate option."
     println
     println "You can use the nextdns command to control the daemon."
     println "Here is a few important commands to know:"
